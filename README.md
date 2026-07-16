@@ -56,19 +56,11 @@ POST /auth/signup
 POST /auth/login
 ```
 
-## 📸 Screenshots
-![Swagger](images/swagger.png)
+
 
 ## 🐳 Docker
 ```bash
 docker compose up --build
-```
-
-## 🚀 Deployment
-- Render
-- Railway
-- Azure
-- AWS
-
+``
 ## 👨‍💻 Author
 Veera Surendra
